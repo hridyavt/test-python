@@ -1,7 +1,7 @@
 import math
 import os
 import sys
-import matplotlib as mat
+import matplotlib
 
 import numpy as num
 import requests
